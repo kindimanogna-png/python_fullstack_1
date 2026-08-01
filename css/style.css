@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    background-color: #e4d9d9;
+    color: #501f03;
+    line-height: 1.6;
+}
+header {
+    background-color: #83abe9;
+    color: #f8f4f6;
+    padding: 30px;
+    text-align: center;
+}
+hr {
+    margin: 20px 0;
+}
+nav{
+    display:flex;
+    justify-content:center;
+    gap:25px;
+    margin-top:20px;
+    flex-wrap:wrap;
+}
